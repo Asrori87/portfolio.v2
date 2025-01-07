@@ -10,7 +10,7 @@ export const DATA = {
 	description:
 		"Aspiring Software Engineer and Future Entrepreneur. Passionate about building innovative web solutions and empowering others through technology. Currently mastering backend development. Let's connect!",
 	summary:
-		"I began my journey as a frontend developer, focusing on creating intuitive and user-friendly interfaces, and am now expanding into backend technologies to become a well-rounded Software Engineer capable of building and optimizing full-stack solutions. My passion for technology drives me to master programming fundamentals, collaborate on innovative projects, and develop scalable systems with the vision of creating impactful SaaS platforms. I’m committed to continuous growth and excited to connect with like-minded individuals to contribute to projects that push the boundaries of modern software engineering.",
+		"I began as a frontend developer creating user-friendly interfaces and am now expanding into backend and AI technologies to become an AI-Frontend Engineer. Driven by a passion for innovation, I focus on mastering programming, integrating AI into intuitive designs, and building scalable SaaS platforms. I’m eager to grow, collaborate, and contribute to cutting-edge projects in modern software engineering.",
 	avatarUrl: "/profile.jpg",
 	skills: [
 		"React",
